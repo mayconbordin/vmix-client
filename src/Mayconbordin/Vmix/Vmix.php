@@ -11,8 +11,6 @@ use GuzzleHttp\Client;
  */
 class Vmix
 {
-    const FN_SETTEXT = "SetText";
-
     /**
      * The URL to the Vmix server.
      * @var string

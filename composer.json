@@ -1,7 +1,7 @@
 {
     "name": "mayconbordin/vmix-client",
     "type": "library",
-    "description": "A HTTP client for the Vmix API",
+    "description": "A PHP client for the Vmix API",
     "keywords": ["vmix", "http", "api", "rest"],
     "homepage": "https://github.com/mayconbordin/vmix-client",
     "license": "MIT",
